@@ -1,0 +1,4 @@
+1 - adicione as ccs vendidas na dbA.txt
+2 - adicione as ccs não vendidas na dbB.txt
+3 - rode o arquivo replicadas.js
+4 - as ccs que estão na dbA serão removidas da dbB e a db limpa será gerada no arquivo nova_db.txt
